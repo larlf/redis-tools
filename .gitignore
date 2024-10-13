@@ -1,0 +1,10 @@
+build/
+target/
+.idea
+Cargo.lock
+**/run.lock
+*.~$lock
+**/node_modules
+log/
+deploy/
+**/~*.*
