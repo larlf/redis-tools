@@ -1,7 +1,7 @@
 
 # Introduction
 
-This project provides a set of development tools for Redis, with current functions mainly focusing on saving and loading data from specified databases.
+This project is a comprehensive Redis data import and export tool designed for seamless data backup, migration, and JSON format export for review purposes. It streamlines the process of transferring data between Redis instances or converting it into a human-readable format, facilitating easy data management and analysis.
 
 # Commands
 
